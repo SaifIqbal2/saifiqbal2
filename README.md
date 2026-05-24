@@ -5,13 +5,15 @@
 
 ![CISA](https://img.shields.io/badge/CISA-ICS%20Cybersecurity-0052CC?style=for-the-badge&logo=govuk&logoColor=white)
 ![DHS](https://img.shields.io/badge/U.S.%20DHS-Verified-003087?style=for-the-badge&logo=govuk&logoColor=white)
+![IACET](https://img.shields.io/badge/IACET-Accredited-1A6B3C?style=for-the-badge&logo=academia&logoColor=white)
 
-| 🎖️ Certificate | 🏛️ Issuing Authority | 📅 Date | ⏱️ Hours |
-|---|---|---|---|
-| ICS Cybersecurity Risk (210W-05) | U.S. Dept of Homeland Security / CISA | May 2026 | 1 Hour |
+| 🎖️ Certificate | 🏛️ Issuing Authority | 📅 Date | ⏱️ Hours | 🎓 CEUs |
+|---|---|---|---|---|
+| Industrial Control System Cybersecurity (ICS300) | U.S. DHS / CISA | May 2026 | 10h 25m | 1.00 |
+| ICS Cybersecurity Risk (210W-05) | U.S. DHS / CISA | May 2026 | 1h | 0.10 |
 
 > 🇺🇸 Issued by **Cybersecurity and Infrastructure Security Agency (CISA)** — U.S. Federal Government  
-> Powered by Idaho National Laboratory (INL) · Accredited by IACET
+> Powered by Idaho National Laboratory (INL) · Accredited by IACET · Total CEUs: **1.10**
 
 
 ## 🌐 Socials:
